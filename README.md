@@ -8,3 +8,9 @@
 
 - Comando para rodar o cypress em background (terminal)
 > npx cypress run
+
+ - Instação do mochawesome
+ > npm install save-dev mochawesome
+
+ - Comando para gerar relatorios com o mochawesome
+ > npx cypress run --reporter mochawesome
