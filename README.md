@@ -5,3 +5,6 @@
 
 - Comando para iniciar o cypress
 > npx cypress open
+
+- Comando para rodar o cypress em background (terminal)
+> npx cypress run
